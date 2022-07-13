@@ -260,6 +260,6 @@ int main()
     refresh();
     endwin();
 
-    printf("Total Score: %d", score);
+    printf("Total Score: %d\n", score);
     return 0;
 }
