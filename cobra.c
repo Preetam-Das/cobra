@@ -259,5 +259,7 @@ int main()
     getchar();
     refresh();
     endwin();
+
+    printf("Total Score: %d", score);
     return 0;
 }
